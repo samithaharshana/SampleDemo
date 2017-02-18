@@ -17,6 +17,7 @@ public class Launcher {
 		System.out.println("2nd change");
 		System.out.println("2nd change");
 		System.out.println("3rd change");
+		System.out.println("3rd change");
 	}
 
 }
