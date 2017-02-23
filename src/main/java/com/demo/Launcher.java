@@ -20,14 +20,14 @@ public class Launcher {
 		System.out.println("3rd change");
 //	git commit -m
 
-//		System.out.println("3rd change");
-//		System.out.println("3rd change");
-//		System.out.println("3rd change");
-//		System.out.println("3rd change");
-////
-//		System.out.println("3rd change");
-//		System.out.println("3rd change");
-//		System.out.println("3rd change");
+		System.out.println("3rd change");
+		System.out.println("3rd change");
+		System.out.println("3rd change");
+		System.out.println("3rd change");
+//
+		System.out.println("3rd change");
+		System.out.println("3rd change");
+		System.out.println("3rd change");
 		System.out.println("3rd change");
 	}
 
